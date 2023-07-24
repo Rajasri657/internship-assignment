@@ -24,7 +24,11 @@
 
 #### Screenshots
 1. Dashboard
+   <img width="1350" alt="Screenshot 2023-07-24 at 8 58 23 PM" src="https://github.com/abhi-sriram/internship-assignment/assets/65218890/cc033400-383e-4390-9570-269f0c0bafe4">
 2. Users
+   <img width="1156" alt="Screenshot 2023-07-24 at 8 59 27 PM" src="https://github.com/abhi-sriram/internship-assignment/assets/65218890/a0d32fba-a696-4f6f-937b-518eed028ee0">
+
+
 
 ### Help
 1. If you are stuck somewhere, feel free to reach out to me on mail `abhisriram007@gmail.com`
